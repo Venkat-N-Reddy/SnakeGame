@@ -5,7 +5,7 @@ Games have been a medium of entertainment for a long time. From the time of Tetr
 ### [Documentation](https://drive.google.com/file/d/1quRwVGoI9TPg1TIqG36usRVXLN_zxBEf/view?usp=sharing)
 
 
- ![Snake Game Loading](/docs/img/SankeGameLoading.PNG)
+ ![Snake Game Loading](/docs/img/SnakeGameLoading.PNG)
  
  
  ![Snake Game Menu](/docs/img/SnakeGameMenu.PNG)
